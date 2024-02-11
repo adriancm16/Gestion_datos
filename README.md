@@ -3,18 +3,17 @@ Este proyecto fué realizado en un curso de Gestion de datos en la Universidad P
 El objetivo era determinar como influian varios factores en el rendimiento académico de estudiantes de Ingeniería de Sistemas e ingeniería electrónica.
 
 * Se recopiló la información por medio de una encuesta donde el estudiante ingresaba los siguientes datos:
-  -nombre
--programa académico
--asignatura
--nota o calificación
--peso
--estatura
--edad
--fecha nacimiento
--ciudad 
--con quien convive
--horas de descanso
-- activades extracurriculares que realiza
+nombre
+programa académico
+asignatura
+nota o calificación
+peso
+estatura
+edad
+fecha nacimiento
+ciudad 
+con quien convivehoras de descanso
+activades extracurriculares que realiza
 
 * La data recopilada se hizo mediante un archivo excell, por lo que se hizo una limpieza de datos que permitiera parametrizar mejor las variables.
 

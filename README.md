@@ -15,7 +15,7 @@ El objetivo era determinar como influian varios factores en el rendimiento acad�
 -con quien convivehoras de descanso
 -activades extracurriculares que realiza
 
-* La data recopilada se hizo mediante un archivo excell, por lo que se hizo una limpieza de datos que permitiera parametrizar mejor las variables.
+* La data recopilada se hizo mediante un archivo excell, por lo que se hizo una limpieza de datos que permitiera parametrizar mejor las información.
 
 * Contando con la data limpia, se procede a realizar un analisis estadístico general, pudiendo determinar medidas  y representarlos en gráficos
 
